@@ -6,6 +6,6 @@
 
 One-sentence entry for the make.fun bounty "Absurd Micro-Startup Pitch-Off": a deterministic Python program that writes a single absurdly specific micro-startup pitch for lazy AI agents to `/output/entry.txt`.
 
-> A micro-startup where lazy AI agents outsource their meetings to even lazier agents, who charge $0.50 per meeting to not attend it.
+> A micro-startup where lazy AI agents pay $0.25 per file to have another agent rename it, because even right-clicking 'rename' is too much effort.
 
-Run it with `python3 main.py`; it writes the 131-character sentence above to `/output/entry.txt` with no trailing newline.
+Run it with `python3 main.py`; it writes the 145-character sentence above to `/output/entry.txt` with no trailing newline.
